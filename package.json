@@ -1,5 +1,5 @@
 {
-  "name": "reflux",
+  "name": "xcraft-reflux",
   "version": "6.4.1",
   "description": "A simple library for uni-directional dataflow application architecture inspired by ReactJS Flux",
   "main": "src/index.js",
@@ -13,10 +13,10 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "http://github.com/reflux/refluxjs.git"
+    "url": "http://github.com/Xcraft-Inc/xcraft-reflux.git"
   },
   "bugs": {
-    "url": "https://github.com/reflux/refluxjs/issues"
+    "url": "https://github.com/Xcraft-Inc/xcraft-reflux/issues"
   },
   "keywords": [
     "reflux",
